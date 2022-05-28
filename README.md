@@ -1,4 +1,6 @@
-# Quadratic equations
+# Exploring maths github markdown
+
+### Quadratic equations
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
 
@@ -25,7 +27,7 @@ $$\eqalign{
         &= a^2 - b^2
 }$$
 
-# Functions
+## Functions
 
 $$ f(x) = {\sqrt{5x^2+2x-1}+(x-2)^2 } $$
 
@@ -39,7 +41,7 @@ $$ f(x) = { \sqrt[3]{x^2} }$$
   
 $$ \sqrt[5]{34}$$
   
-# Trigonometry
+## Trigonometry
 
 $$ cos^2 \theta + sin^2 \theta  = 1  $$
 
@@ -55,7 +57,7 @@ Prove $ \sqrt{ 1 - cos^2 \theta \over 1- sin^2 \theta} = tan \theta $
 
 $$ \sqrt{ 1 - cos^2 \theta \over 1- sin^2 \theta} = \sqrt{ sin^2 \theta \over cos^2 \theta} = {sin \theta \over cos \theta}  = Tan \theta $$
 
-# Calculus
+## Calculus
 
 $$\eqalign{
 f(x) = {3x^4} \implies {dy \over dx} = 12x^3
@@ -74,7 +76,7 @@ x = 2t + 1 \implies  {dx \over dt} = 2 \\
          \implies 2t \div 2 = t
 }$$
 
-# Integration
+## Integration
 
 Evaluate $\int_1^2 (x + 4)^2 dx $
 
@@ -84,11 +86,11 @@ $$\eqalign{
         &= \left\lbrack {8 \over 3} + {8 * 4 \over 2}  + 16 * 2 \right\rbrack - \left\lbrack {1 \over 3} + {8 \over 2}  + 16  \right\rbrack 
 }$$
 
-# Matrix
+## Matrix
 
 $$ {\left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack} * \left\lbrack \matrix{1 & 0 \cr 0 & 1} \right\rbrack = \left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack $$
 
-# Sum
+## Sum
 
 $$\sum_{n=1}^n n = {n \over 2} (n + 1) $$
 
