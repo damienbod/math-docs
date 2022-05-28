@@ -51,7 +51,7 @@ $$\eqalign{
 f(x) = {2x^{-3/2}} \implies  {dy \over dx} = -3x^{-5/2} &= - {3 \over \sqrt{x^5}}
 }$$
 
-If $x = 2t + 1$ and $ y = t^2$ find $$ {dy \over dx} ?
+If $x = 2t + 1$ and $ y = t^2$ find ${dy \over dx}$ ?
 
 # Integration
 
