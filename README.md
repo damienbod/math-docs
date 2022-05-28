@@ -57,7 +57,7 @@ $$\eqalign{
 x = 2t + 1 \implies  {dy \over dx} = 2 \\
         y = t^2 \implies  {dy \over dx} = 2t \\
         {dy \over dx} = {dy \over dt} \div {dx \over dt} \\
-        &= 2t \div 2 = t
+         \implies 2t \div 2 = t
 }$$
 
 # Integration
