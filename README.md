@@ -17,7 +17,11 @@ $f(x) = {(x + 2) \over (2x + 1)} $  x ∈ R, x ≠ − 1/2
 
 $$ cos^2 \theta + sin^2 \theta  = 1  $$
 
-
+$$\eqalign{
+(a+b)^2 &= (a+b)(a+b) \\
+        &= a^2 + ab + ba + b^2 \\
+        &= a^2 + 2ab + b^2
+}$$
   
 ## Links
 
@@ -28,3 +32,5 @@ https://www.mathjax.org/
 http://docs.mathjax.org/en/latest/
 
 https://docs.mathjax.org/en/v2.7-latest/tex.html
+
+https://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm
