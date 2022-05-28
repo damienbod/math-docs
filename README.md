@@ -17,6 +17,8 @@ $$f(x) = {(x + 2) \over (2x + 1)} $$   __ x ∈ R, x ≠ − 1/2
 
 $$ cos^2 \theta + sin^2 \theta  = 1  $$
 
+$$ { e^x = lim_(n->oo) (1 + x/n)^n } $$
+
 ## Links
 
 https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/
