@@ -91,6 +91,9 @@ $$ {\left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack} * \left\lbrack \matrix{
 # Sum
 
 $$\sum_{n=1}^n n = {n \over 2} (n + 1) $$
+
+$$\sum_{n=1}^n n^2 = {n \over 6} (n + 1)(2n + 1) $$
+
 # Links
 
 https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/
