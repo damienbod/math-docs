@@ -1,6 +1,5 @@
 # Quadratic equations
 
-## Quadratic equation
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
 
 $(a+b)^2$
@@ -26,19 +25,22 @@ $$\eqalign{
         &= a^2 - b^2
 }$$
 
-# square root
+# Functions
 
-$\sqrt{3x-1}+(1+x)^2$  $\root{3x-1}+(1+x)^2$
+$$ f(x) = {\sqrt{3x-1}+(1+x)^2 } $$
 
 
-$$\\frac{a}{1-a^2}$$
+$$ g(x) = {\\frac{a}{1-a^2} }$$
 
-$f(x) = {(x + 2) \over (2x + 1)} $  x ∈ R, x ≠ − 1/2    
+$$ f(x) = {(x + 2) \over (2x + 1)} $$   
+
+
+$$ f(x) = { \sqrt[3]{x^2} }$$
+  
+# Trigonometry
 
 $$ cos^2 \theta + sin^2 \theta  = 1  $$
 
-$$\sqrt[3]{x^2}$$
-  
 ## Links
 
 https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/
