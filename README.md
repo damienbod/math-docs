@@ -13,7 +13,9 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 $$\\frac{a}{1-a^2}$$
 
-$$f(x) = {(x + 2) \over (2x + 1)}  x ∈ R, x ≠ − 1/2 $$    
+$$f(x) = {(x + 2) \over (2x + 1)} $$  $$ x ∈ R, x ≠ − 1/2 $$    
+
+$$ cos^2 \theta + sin^2 \theta  = 1 class{cmjx-nb}{(9)} $$
 
 ## Links
 
