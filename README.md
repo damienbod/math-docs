@@ -1,6 +1,30 @@
-# -b
+# Quadratic equations
 
+## Quadratic equation
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+
+# $(a+b)^2$
+
+$$\eqalign{
+(a+b)^2 &= (a+b)(a+b) \\
+        &= a^2 + ab + ba + b^2 \\
+        &= a^2 + 2ab + b^2
+}$$
+
+# $(a-b)^2$
+
+$$\eqalign{
+(a-b)^2 &= (a-b)(a-b) \\
+        &= a^2 - ab - ba + b^2 \\
+        &= a^2 - 2ab + b^2
+}$$
+
+# $(a-b)(a+b)$
+
+$$\eqalign{
+(a+b)(a-b)  &= a^2 - ab + ba - b^2 \\
+        &= a^2 - b^2
+}$$
 
 # square root
 
