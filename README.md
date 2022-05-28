@@ -79,6 +79,9 @@ $$\eqalign{
         &= \left\lbrack {8 \over 3} + {8 * 4 \over 2}  + 16 * 2 \right\rbrack - \left\lbrack {1 \over 3} + {8 \over 2}  + 16  \right\rbrack 
 }$$
 
+# Matrix
+
+$$ \left\lgroup \matrix{2 & 3\cr 4 & 5} \right\rgroup . \left\lgroup \matrix{1 & 0\cr 0 & 1} \right\rgroup = \left\lgroup \matrix{2 & 3\cr 4 & 5} \right\rgroup $$
 
 # Links
 
