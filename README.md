@@ -81,7 +81,7 @@ $$\eqalign{
 
 # Matrix
 
-$$ \left\lgroup \matrix{2 & 3\cr 4 & 5} \right\rgroup . \left\lgroup \matrix{1 & 0\cr 0 & 1} \right\rgroup = \left\lgroup \matrix{2 & 3\cr 4 & 5} \right\rgroup $$
+$$ {\left\lgroup \matrix{2 & 3 \cr 4 & 5} \right\rgroup} * \left\lgroup \matrix{1 & 0 \cr 0 & 1} \right\rgroup = \left\lgroup \matrix{2 & 3 \cr 4 & 5} \right\rgroup $$
 
 # Links
 
