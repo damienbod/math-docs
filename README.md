@@ -22,6 +22,8 @@ $$\eqalign{
         &= a^2 + ab + ba + b^2 \\
         &= a^2 + 2ab + b^2
 }$$
+
+$$\sqrt[3]{x^2}$$
   
 ## Links
 
