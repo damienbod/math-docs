@@ -27,7 +27,7 @@ $$\eqalign{
 
 # Functions
 
-$$ f(x) = {\sqrt{3x-1}+(1+x)^2 } $$
+$$ f(x) = {\sqrt{5x^2+2x-1}+(x-2)^2 } $$
 
 
 $$ g(x) = {\\frac{a}{1-a^2} }$$
