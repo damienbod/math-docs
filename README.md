@@ -43,6 +43,8 @@ $$ \sqrt[5]{34}$$
 
 $$ cos^2 \theta + sin^2 \theta  = 1  $$
 
+Prove $ \sqrt{ 1 - cos^2 \theta \over 1- sin^2 \theta} = tan \theta $
+
 # Calculus
 
 $$\eqalign{
