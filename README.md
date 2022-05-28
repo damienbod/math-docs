@@ -56,14 +56,15 @@ f(x) = {2x^{-3/2}} \implies  {dy \over dx} = -3x^{-5/2} &= - {3 \over \sqrt{x^5}
 If $x = 2t + 1$ and $ y = t^2$ find ${dy \over dx}$ ?
 
 $$\eqalign{
-x = 2t + 1 \implies  {dy \over dx} = 2 \\
-        y = t^2 \implies  {dy \over dx} = 2t \\
+x = 2t + 1 \implies  {dx \over dt} = 2 \\
+        y = t^2 \implies  {dy \over dt} = 2t \\
         {dy \over dx} = {dy \over dt} \div {dx \over dt} \\
          \implies 2t \div 2 = t
 }$$
 
 # Integration
 
+Evaluate $\int_2^1 {x + 4}^2 dx $
 
 # Links
 
