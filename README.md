@@ -41,7 +41,17 @@ $$ f(x) = { \sqrt[3]{x^2} }$$
 
 $$ cos^2 \theta + sin^2 \theta  = 1  $$
 
-## Links
+# Calculus
+
+$$\eqalign{
+f(x) = {3x^4} &= (dx) \over (dy) \\
+        &= 12x^3
+}$$
+
+# Integration
+
+
+# Links
 
 https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/
 
