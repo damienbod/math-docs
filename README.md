@@ -17,10 +17,17 @@ $$f(x) = {(x + 2) \over (2x + 1)} $$   __ x ∈ R, x ≠ − 1/2
 
 $$ cos^2 \theta + sin^2 \theta  = 1  $$
 
-<div class="cmath">
-  `class{cmjx-highlight} { e^x = lim_(n->oo) (1 + x/n)^n }`
-</div>
-
+$$\documentclass{article}
+	\usepackage[utf8]{inputenc}
+	\usepackage{amsmath}
+	\begin{document}
+	\[
+	\lim_{h \rightarrow 0 } \frac{f(x+h)-f(x)}{h}
+	\]
+	 This operator changes when used alongside 
+	text \( \lim_{x \rightarrow h} (x-h) \).
+	\end{document}$$
+  
 ## Links
 
 https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/
