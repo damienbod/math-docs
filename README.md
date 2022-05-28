@@ -45,7 +45,7 @@ $$ cos^2 \theta + sin^2 \theta  = 1  $$
 
 Prove $ \sqrt{ 1 - cos^2 \theta \over 1- sin^2 \theta} = tan \theta $
 
-$$ \sqrt{ 1 - cos^2 \theta \over 1- sin^2 \theta} = \sqrt{ sin^2 \theta \over cos^2 \theta} $$ = sin \theta \over cos \theta $$ = Tan \theta
+$$ \sqrt{ 1 - cos^2 \theta \over 1- sin^2 \theta} = \sqrt{ sin^2 \theta \over cos^2 \theta} = sin \theta \over cos \theta $$ = Tan \theta
 
 # Calculus
 
