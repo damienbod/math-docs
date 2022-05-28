@@ -67,8 +67,8 @@ x = 2t + 1 \implies  {dx \over dt} = 2 \\
 Evaluate $\int_2^1 (x + 4)^2 dx $
 
 $$\eqalign{
-\int_2^1 (x + 4)^2 dx =  \int_2^1 (x^2 + 8x + 16) dx \\
-        y = t^2 \implies  {dy \over dt} = 2t
+\int_1^2 (x + 4)^2 dx =  \int_1^2 (x^2 + 8x + 16) dx \\
+        \left\lbrack {x^3 \over 3} + {8x^2 \over 2}  + 16x \right\rbrack
 }$$
 
 
