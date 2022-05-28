@@ -44,8 +44,7 @@ $$ cos^2 \theta + sin^2 \theta  = 1  $$
 # Calculus
 
 $$\eqalign{
-f(x) = {3x^4} &= (dx) \over (dy) \\
-        &= 12x^3
+f(x) = {3x^4} \implies {dx \over dy} = 12x^3
 }$$
 
 # Integration
