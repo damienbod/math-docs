@@ -37,6 +37,8 @@ $$ f(x) = {(x + 2) \over (2x + 1)} $$
 
 $$ f(x) = { \sqrt[3]{x^2} }$$
   
+$$ \sqrt[5]{34}$$
+  
 # Trigonometry
 
 $$ cos^2 \theta + sin^2 \theta  = 1  $$
