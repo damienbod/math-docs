@@ -88,6 +88,9 @@ $$\eqalign{
 
 $$ {\left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack} * \left\lbrack \matrix{1 & 0 \cr 0 & 1} \right\rbrack = \left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack $$
 
+# Sum
+
+$$\sum_{n=1}^n n = {n \over 2} (n + 1) $$
 # Links
 
 https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/
