@@ -66,6 +66,12 @@ x = 2t + 1 \implies  {dx \over dt} = 2 \\
 
 Evaluate $\int_2^1 (x + 4)^2 dx $
 
+$$\eqalign{
+\int_2^1 (x + 4)^2 dx =  \int_2^1 (x^2 + 8x + 16) dx \\
+        y = t^2 \implies  {dy \over dt} = 2t
+}$$
+
+
 # Links
 
 https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/
