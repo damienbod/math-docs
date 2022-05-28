@@ -46,7 +46,8 @@ $$ cos^2 \theta + sin^2 \theta  = 1  $$
 $$ tan 2 \theta = {2tan \theta  \over 1 - tan^2 \theta}  $$
 
 $$\eqalign{
-cos 2 \theta = cos^2 \theta - sin^2 \theta \\
+cos 2 \theta = \\ 
+                       cos^2 \theta - sin^2 \theta \\
                        &=  2 cos^2  \theta -1 \\
                        &= 1 - 2sin^2 \theta 
 }$$
