@@ -1,6 +1,6 @@
-# Exploring maths github markdown
+# Exploring github markdown for math
 
-### Quadratic equations
+## Quadratic equations
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
 
