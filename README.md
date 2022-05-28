@@ -49,7 +49,7 @@ f(x) = {3x^4} \implies {dy \over dx} = 12x^3
 
 $$\eqalign{
 f(x) = {2x^-3/2} \implies \\ 
-                &= {dy \over dx} = -3x^-5/2  \\
+                {dy \over dx} = -3x^-5/2  \\
                 &= - {3 \over \sqrt{x^5}}
 }$$
 
