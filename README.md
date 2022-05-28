@@ -64,7 +64,7 @@ x = 2t + 1 \implies  {dx \over dt} = 2 \\
 
 # Integration
 
-Evaluate $\int_2^1 {x + 4}^2 dx $
+Evaluate $\int_2^1 (x + 4)^2 dx $
 
 # Links
 
