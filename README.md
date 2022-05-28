@@ -1,4 +1,8 @@
-# math-tests
+# -b
+
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
+# square root
 
 $\sqrt{3x-1}+(1+x)^2$
 
@@ -6,9 +10,11 @@ $\sqrt{3x-1}+(1+x)^2$
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
 
 $$\\frac{a}{1-a^2}$$
+
+f(x) = (x + 2) / (2x + 1)        x ∈ R, x ≠ − 1/2
 
 ## Links
 
