@@ -43,6 +43,9 @@ $$ \sqrt[5]{34}$$
 
 $$ cos^2 \theta + sin^2 \theta  = 1  $$
 
+$$ tan 2 \theta = 2tan^ \theta  \over 1 - tan^2 \theta  $$
+
+
 Prove $ \sqrt{ 1 - cos^2 \theta \over 1- sin^2 \theta} = tan \theta $
 
 $$ \sqrt{ 1 - cos^2 \theta \over 1- sin^2 \theta} = \sqrt{ sin^2 \theta \over cos^2 \theta} = {sin \theta \over cos \theta}  = Tan \theta $$
